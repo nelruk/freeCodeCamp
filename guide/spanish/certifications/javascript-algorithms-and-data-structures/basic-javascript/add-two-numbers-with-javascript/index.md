@@ -6,6 +6,6 @@ localeTitle: Añadir dos números con JavaScript
 
 JavaScript usa el símbolo `+` para la suma.
 ```
-var sum = 10 + 10; //sum gets the value 20 
+var sum = 10 + 10; //sum tiene el valor de 20 
 
 ```
