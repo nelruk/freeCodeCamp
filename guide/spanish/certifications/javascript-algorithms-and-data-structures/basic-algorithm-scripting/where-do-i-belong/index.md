@@ -81,8 +81,8 @@ function getIndexToIns(arr, num) {
 
 ## Explicación del código:
 
-*   No ordeno la matriz de entrada arr
-*   Ejecuto un recuento de bucles for cuando la entrada num es más grande que un número de entrada arr.
+*   No ordeno la matriz de entrada `arr`
+*   Ejecuto un recuento de bucles for cuando la entrada `num` es más grande que un número de entrada `arr`.
 *   Este número es equivalente a la posición de num que estaría en una matriz ordenada.
 
 ## ![:beginner:](https://forum.freecodecamp.com/images/emoji/emoji_one/beginner.png?v=3 ":principiante:") Solución de código básico:
